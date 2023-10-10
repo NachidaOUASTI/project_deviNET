@@ -1,0 +1,11 @@
+body{
+    display:flex;
+    justify-content: center;
+    background-color: #82fee3;
+    background-image: linear-gradient(180deg, #82fee3 0%, #78cfef 50%, #9fa3e6 100%);
+    
+    
+    /*pour eviter la répétition pour que le background-color s étende on ajoute une height et une width*/
+    height:100vh;
+        
+}
